@@ -1,0 +1,1 @@
+https://book.hacktricks.xyz/network-services-pentesting/pentesting-mssql-microsoft-sql-server
